@@ -22,7 +22,7 @@ While several approaches (e.g., see ``Implemented Counterfactual Methods``) have
 
 ### Dependence on CARLA
 
-CARLA is a python library to benchmark counterfactual explanation and recourse models. It comes out-of-the box with commonly used datasets and various machine learning models. Documentation [here](https://carla-counterfactual-and-recourse-library.readthedocs.io/en/latest/) and the corresponding arXiv paper [here](https://arxiv.org/pdf/2108.00783.pdf) can be found using the corresponding links.
+CARLA is a python library to benchmark counterfactual explanation and recourse models. It comes out-of-the box with commonly used datasets and various machine learning models. Documentation [here](https://carla-counterfactual-and-recourse-library.readthedocs.io/en/latest/) and the corresponding NeurIPS paper [here](https://arxiv.org/pdf/2108.00783.pdf) can be found using the corresponding links.
 
 ## Installation
 Using python directly or within activated virtual environment:
